@@ -1,0 +1,45 @@
+body {
+    background-color: #f2cfc9;
+    text-align: center;
+    color: #333333;
+    padding: 100px;
+    border: 10px solid gold;
+  
+    font-family: 'Bad Script', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px solid #dbd9d9;
+    background-color:#db7346;
+   
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+font-family: 'Satisfy', cursive;
+}
+img{
+    border: 5px  yellow;
+    width:200px;
+    height:200px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border:none;
+}
